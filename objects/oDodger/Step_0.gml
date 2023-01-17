@@ -1,0 +1,2 @@
+/// @description State machine
+state();
